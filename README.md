@@ -1,4 +1,4 @@
-Copyright (C) 2018 - The MoKee Open Source Project
+Copyright (C) 2018 - The Lineage Open Source Project
 
 Device configuration for Smartisan U3 Pro
 ==============
